@@ -1,19 +1,32 @@
-DEEP WORK definition: 
-- 1. Deep work is the ability to focus without distraction on a cognitively demanding task.
-- 2. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship.
-- 3. Deep work is valuable in almost any profession. Deep work is rare. And it’s like a superpower in our increasingly competitive twenty-first-century economy.
-- 4. Deep work is a skill that you can develop, which means you can become better at it with time and effort.
+# DEEP WORK definition: 
+- Deep work is the **ability to focus without distraction** on a cognitively demanding task.
 
-My deep work rules: 
-- 1. 3 or 4 hours planned and without any distraction, no phone, no internet (if possible), no music. 
-- 2. No multitasking, no switching between tasks.
-- 3. producitvity law: 
-    excellent work = time spend on it * intensity of concentration
-        (and concentration is hurt by distraction)
-- 4. connectivity is the enemy of concentration
-- 5. prove / track your deep work
-- 6. having rituals and routines is important = you need less discipline to do the work
+- Deep work will make you better at what you do and provide the **sense of true fulfillment** that comes from craftsmanship.
 
+- Deep work is valuable in almost any profession. **Deep work is rare.** And it’s like a superpower in our increasingly competitive twenty-first-century economy.
+
+- Deep work is a skill that **you can develop**, which means you can become better at it with time and effort.
+
+
+<br>
+
+## My deep work rules:
+1. 3 or 4 hours planned and without any distraction, no phone, no internet (if possible), no music. 
+
+2. No multitasking, no switching between tasks.
+
+3. Producitvity law: 
+
+    **excellent work = time spend on it * intensity of concentration**
+
+4. connectivity is the enemy of concentration
+
+5. prove / track your deep work
+
+6. having rituals and routines is truly important you need less discipline to do the work
+
+
+## Some quotes:
 
 "I ruthlessly eliminate all that is superficial and meticulously cultivate the intensity of my depth of concentration."
 
@@ -21,16 +34,16 @@ My deep work rules:
 
  "Gallager: who you are is the sum of what you think about, feel, and do. If you want to change who you are, you must change what you think about, feel, and do. If you want to change what you think about, feel, and do, you must change what you pay attention to."
 
-monastic philosophy, bimodale (retreats), rythmique (habits, chain method: having visual cues to remind you of your habits)
-
 David Brooks: "Greatest minds think like artists but work like accountants" (meaning plaanning and discipline)
 
-The idea behind the ritual is to minimize the mental energy you need to think about you do you need / what do you want to do.
-
-<br>
 
 ## Deep work Ritual
+*the why*: 
+
+    The idea behind the ritual is to minimize the mental energy you need to think about you do you need / what do you want to do.
+<br>
 Crafting is own ritual needs some iterations, but when you find it, it's highly beneficial
+<br>
 
 **questions to answer to define your ritual**: 
 1. *where do you work and for how long*
@@ -40,11 +53,16 @@ Crafting is own ritual needs some iterations, but when you find it, it's highly 
 3. *what help do you provide yourself during deep work?*
     - can be a little walk, some fitness exercices, some coffee, some fruits...
 
+<br>
+
 ### Collaborative work
-Collaborative work can be good to find ideas, to brainstorm, to innovate, to push yourself to deep dive into a thought, a subject. 
+good to:
+- find ideas
+- brainstorm
+- innovate
+- push yourself to deep dive into a thought, a subject. 
 
-    "Don't do just collaborative work, you need to do deep work too"
-
+<br>
 # 4DX strategy:
 - **Discipline 1: Focus On The Wildly Important**
 
