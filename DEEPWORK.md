@@ -37,23 +37,6 @@
 David Brooks: "Greatest minds think like artists but work like accountants" (meaning plaanning and discipline)
 
 
-## Deep work Ritual
-*the why*: 
-
-    The idea behind the ritual is to minimize the mental energy you need to think about you do you need / what do you want to do.
-<br>
-Crafting is own ritual needs some iterations, but when you find it, it's highly beneficial
-<br>
-
-**questions to answer to define your ritual**: 
-1. *where do you work and for how long*
-     - for example: work at my desk, door closed, desk tidy for 3 hours 
-2. *define rules to follow during deep work*
-     - for example: no phone, no internet, no music, no multitasking, no switching between tasks, this task made in 30mn...
-3. *what help do you provide yourself during deep work?*
-    - can be a little walk, some fitness exercices, some coffee, some fruits...
-
-<br>
 
 ### Collaborative work
 good to:
@@ -62,71 +45,89 @@ good to:
 - innovate
 - push yourself to deep dive into a thought, a subject. 
 
+
 <br>
+
 # 4DX strategy:
-- **Discipline 1: Focus On The Wildly Important**
+ **Discipline 1: Focus On The Wildly Important**
 
-    "the more you try to do, the less you succeed"
-    need to have a limited number of goals
-    Si vous souhaitez remporter la bataille de l'attention, n'essayez pas de dire non aux distractions, mais dites oui aux sujets qui font naitre une envie irrépressible et laissez celle ci supplanter tout le reste
+*"the more you try to do, the less you succeed"*
 
-- **Discipline 2: Act-On The Lead Measures**
-    Need to evaluate your success 
+how:
+- have a limited number of goals you carefully choose
 
-    Se fixer des indicateurs strategiques et non de réussites 
-    Par exemple: 
-    indicateur de reussite: 
-        50K de CA / an
-        Stage chez Google
-        1000 paying users
-    indicateur strategiques: 
-        number of hours spent on deep work
-        number of CV sent 
-        number of potential customers contacted
+<br>
 
-- **Discipline 3: Keep A Compelling Scoreboard**
-    1. you see your progress
-    2. you see others progress
+**Discipline 2: Act-On The Lead Measures**
 
-    -> NEED TO COUNT & DISPLAY IT VISUALLY
-        can be a scoreboard on your desk
-        can be share whithin your team (everyone see others results)
-        can be share with your friends
+Evaluate your success 
 
-- **Discipline 4: Create A Cadence Of Accountability**
-    weekly reflect (with others if possible)
-    what could you improve for the next week?
-        - take precise actions
 
-to refuel, to have more ideas, to let your subconcious mind to the work
-SHUTDOWN ROUTINE: 
-    algoritm to execute at the end of the day
+***strategic indicators*** (track the process, what you do) >> success indicators 
+    
+<br>
+
+*for example:* 
+- the number of hours you spend on deep work
+- the number of potential customers contacted
+    
+<br>
+
+**Discipline 3: Keep A Compelling Scoreboard**
+
+*how:*
+
+count & display progress visually
+
+*output:*
+
+1. you see your progress
+2. you see others progress
+
+
+*for example:*
+- a scoreboard on your desk
+- share your scoreboard whith others (team/friends...) 
+
+<br>
+
+**Discipline 4: Create A Cadence Of Accountability**
+
+*what*
+
+weekly reflect (with others if possible)
+
+<br>
+
+*how*
+
+ask yourself:
+- what did you do well?
+- what did you do wrong?
+- what could you improve for the next week?
+- what did you learn?
+
+Then take precise actions for the next week
+
+<br>
+
+### SHUTDOWN ROUTINE: 
+*why*
+
+to refuel, to have more ideas, to let your subconcious mind do the work
+
+<br>
+
+*how*
+
+execute the dead simple algorithm at the end of each day
+
     begin
         for each tasks not done:
             plan it or drop it
         Tell "shutdown done" to your brain
     end
 
-    need to stop each days at one point, until the next day
-        -> no more email red, no thought about work, no more work
-        -> better if it's a ritual
-            for example: each day after 6pm/after dinner...
-
-plan the distractions
-plan when you can use internet, outside this time, you just have to wait, be intransigent
-look for waiting and ennui (new experience)
-
-for example: 
-    everyday before 2pm & after 9pm, no internet
-        every morning = no internet
-        every evening = no internet
-
-proactive meditation (for example: during a walk)
-
-
-do not entertain yourself with internet
-plan your distraction
-we naturaly spent most of our time on autopilot
 
 <br>
 
@@ -160,3 +161,35 @@ we naturaly spent most of our time on autopilot
 *note*:
 
 you can adapt it several times a day, that's not a problem
+
+plan the distractions is also a really great idea, especially with internet distractions
+
+
+
+## Deep work Ritual
+*the why*: 
+
+    The idea behind the ritual is to minimize the mental energy you need to think about you do you need / what do you want to do.
+<br>
+Crafting is own ritual needs some iterations, but when you find it, it's highly beneficial
+<br>
+
+**questions to answer to define your ritual**: 
+1. *where do you work and for how long*
+     - for example: work at my desk, door closed, desk tidy for 3 hours 
+2. *define rules to follow during deep work*
+     - for example: no phone, no internet, no music, no multitasking, no switching between tasks, this task made in 30mn...
+3. *what help do you provide yourself during deep work?*
+    - can be a little walk, some fitness exercices, some coffee, some fruits...
+
+<br>
+
+## The use of Internet
+
+- plan when you can use internet, outside this time, you just have to wait, be intransigent
+look for waiting and ennui (new experience)
+
+for example: 
+    everyday before 2pm & after 9pm, no internet
+        every morning = no internet
+        every evening = no internet
