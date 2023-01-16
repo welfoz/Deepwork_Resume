@@ -143,7 +143,9 @@ execute the dead simple algorithm at the end of each day
 
 *the why*: 
 
-    the problem is to be in autopilot and not being aware of what you do, so spend your time on things that are not important or distracting yourself with things you don't want
+the problem is to be in *autopilot* and not being aware of what you do,
+
+Resulting in begin distracted when you don't want to and spending your time on things that are not important for you.
 
 <br>
 
@@ -160,12 +162,11 @@ execute the dead simple algorithm at the end of each day
 
 2. adapt your plan when something unexpected happens 
 <br>
-    example:
-
-    - a task takes more time than expected
-    - an unplaned opportunity comes 
-    - you need to do something you didn't plan
-    - you don't have time to do everything 
+example:
+- a task takes more time than expected
+- an unplaned opportunity comes 
+- you need to do something you didn't plan
+- you don't have time to do everything 
 
 *note*:
 
@@ -206,16 +207,23 @@ good to:
 ## Deep work Ritual
 *the why*: 
 
-    The idea behind the ritual is to minimize the mental energy you need to think about you do you need / what do you want to do.
+The idea behind the ritual is to *minimize the mental energy* you need to think about you do you need / what do you want to do.
 <br>
 Crafting is own ritual needs some iterations, but when you find it, it's highly beneficial
 <br>
 
 **questions to answer to define your ritual**: 
+
 1. *where do you work and for how long*
      - for example: work at my desk, door closed, desk tidy for 3 hours 
+
+<br>
+
 2. *define rules to follow during deep work*
      - for example: no phone, no internet, no music, no multitasking, no switching between tasks, this task made in 30mn...
+
+<br>
+
 3. *what help do you provide yourself during deep work?*
     - can be a little walk, some fitness exercices, some coffee, some fruits...
 
