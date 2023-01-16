@@ -10,45 +10,53 @@
 
 <br>
 
-## My deep work rules:
-1. 3 or 4 hours planned and without any distraction, no phone, no internet (if possible), no music. 
+## Overview
 
-2. No multitasking, no switching between tasks.
+1. Deep work 
 
-3. Producitvity law: 
+1. Set & track your goals
 
-    **excellent work = time spend on it * intensity of concentration**
+2. Planning your day is more important than you think
 
-4. connectivity is the enemy of concentration
+3. Shutdown every day to keep on the long run
 
-5. prove / track your deep work
+## Key actions to take
 
-6. having rituals and routines is truly important you need less discipline to do the work
+- Begin by having a task list (could be on paper or on an app like todoist)
+- Plan your day upfront 
+- Be intransigent about distractions when you want to deep work 
+- Plan your use of internet
 
-
-## Some quotes:
+## Some quotes from the book:
 
 "I ruthlessly eliminate all that is superficial and meticulously cultivate the intensity of my depth of concentration."
 
 "less distraction = less mental noise"
 
- "Gallager: who you are is the sum of what you think about, feel, and do. If you want to change who you are, you must change what you think about, feel, and do. If you want to change what you think about, feel, and do, you must change what you pay attention to."
+"Gallager: who you are is the sum of what you think about, feel, and do. If you want to change who you are, you must change what you think about, feel, and do. If you want to change what you think about, feel, and do, you must change what you pay attention to."
 
-David Brooks: "Greatest minds think like artists but work like accountants" (meaning plaanning and discipline)
+David Brooks: "Greatest minds think like artists but work like accountants" (meaning planing and discipline)
 
 
+## How to do Deep Work ?
 
-### Collaborative work
-good to:
-- find ideas
-- brainstorm
-- innovate
-- push yourself to deep dive into a thought, a subject. 
+Producitvity law: 
 
+**excellent work = time spend on it * intensity of concentration**
+ 
+<br>
+
+There are several enemies of concentration:
+- phone
+- internet
+- interruption
+- multitasking, switching between tasks
+
+    When you want to deep work, you need to eliminate all of them, intransigently.
 
 <br>
 
-# 4DX strategy:
+## 4DX strategy:
  **Discipline 1: Focus On The Wildly Important**
 
 *"the more you try to do, the less you succeed"*
@@ -111,7 +119,7 @@ Then take precise actions for the next week
 
 <br>
 
-### SHUTDOWN ROUTINE: 
+## Shutdown Routine: 
 *why*
 
 to refuel, to have more ideas, to let your subconcious mind do the work
@@ -165,6 +173,25 @@ you can adapt it several times a day, that's not a problem
 plan the distractions is also a really great idea, especially with internet distractions
 
 
+<br>
+
+## The use of Internet
+
+- plan when you can use internet, outside this time, you just have to wait, be intransigent
+look for waiting and ennui (new experience)
+
+for example: 
+    everyday before 2pm & after 9pm, no internet
+        every morning = no internet
+        every evening = no internet
+
+## Collaborative work
+good to:
+- find ideas
+- brainstorm
+- innovate
+- push yourself to deep dive into a thought, a subject. 
+
 
 ## Deep work Ritual
 *the why*: 
@@ -183,13 +210,3 @@ Crafting is own ritual needs some iterations, but when you find it, it's highly 
     - can be a little walk, some fitness exercices, some coffee, some fruits...
 
 <br>
-
-## The use of Internet
-
-- plan when you can use internet, outside this time, you just have to wait, be intransigent
-look for waiting and ennui (new experience)
-
-for example: 
-    everyday before 2pm & after 9pm, no internet
-        every morning = no internet
-        every evening = no internet
