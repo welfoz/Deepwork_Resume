@@ -161,6 +161,7 @@ execute the dead simple algorithm at the end of each day
 2. adapt your plan when something unexpected happens 
 <br>
     example:
+
     - a task takes more time than expected
     - an unplaned opportunity comes 
     - you need to do something you didn't plan
@@ -177,13 +178,22 @@ plan the distractions is also a really great idea, especially with internet dist
 
 ## The use of Internet
 
-- plan when you can use internet, outside this time, you just have to wait, be intransigent
-look for waiting and ennui (new experience)
+*why*
 
-for example: 
-    everyday before 2pm & after 9pm, no internet
-        every morning = no internet
-        every evening = no internet
+Internet is a great tool, but it can easily become highly time consuming and distracting
+
+By restricting its use, you limit its impact 
+
+*how*
+
+Plan when you can use internet. 
+
+Outside this time, you just have to wait, be intransigent. 
+(you may feel some annoyance, that's the sign you're doing it right)
+
+*for example:*
+
+- everyday before 2pm & after 9pm, no internet
 
 ## Collaborative work
 good to:
